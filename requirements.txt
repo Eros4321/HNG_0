@@ -3,3 +3,5 @@ djangorestframework
 gunicorn
 django-cors-headers
 django-heroku
+requests==2.31.0
+
